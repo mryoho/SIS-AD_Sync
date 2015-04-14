@@ -1,0 +1,15 @@
+school_id,student_id,first_name,last_name,grade_level,user_name,pass_word,date_of_birth
+004,000750000,John,"Smith, Jr.",12,jsmith1,,01/01/1988
+004,000750001,Devon,James Jr.,11,jsmith2,,01/01/1989
+004,000750002,Stacie,Black II,10,jsmith3,,01/01/1990
+036,000750003,Ron,Howard III,09,jsmith4,,01/01/1991
+008,001234567,Ben,Franklin,08,jsmith5,,01/01/1992
+008,001234568,Kim,Kidsh,07,jsmith6,,01/01/1993
+024,001234569,Lacy,Elliott,06,jsmith7,,01/01/1994
+024,001234570,Don,Rogers,05,jsmith8,,01/01/1995
+012,001234571,Roger,Hanklish,04,jsmith9,,01/01/1996
+016,001234572,Elizabeth,Stewart,03,jsmith10,,01/01/1997
+020,001234573,James,Blunt,02,jsmith11,,01/01/1998
+028,001234574,Lisa,Stady,01,jsmith12,,01/01/1999
+040,001234575,George,Washington,64,jsmith13,,01/01/2000
+012,001234576,Hannah,Crump,62,jsmith14,,01/01/2001
